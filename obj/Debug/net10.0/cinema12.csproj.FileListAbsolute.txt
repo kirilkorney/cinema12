@@ -1,0 +1,15 @@
+/Users/macbook/cinemaProject/cinema12/obj/Debug/net10.0/cinema12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/cinemaProject/cinema12/obj/Debug/net10.0/cinema12.AssemblyInfoInputs.cache
+/Users/macbook/cinemaProject/cinema12/obj/Debug/net10.0/cinema12.AssemblyInfo.cs
+/Users/macbook/cinemaProject/cinema12/obj/Debug/net10.0/cinema12.csproj.CoreCompileInputs.cache
+/Users/macbook/cinemaProject/cinema12/obj/Debug/net10.0/cinema12.sourcelink.json
+/Users/macbook/cinemaProject/cinema12/bin/Debug/net10.0/cinema12
+/Users/macbook/cinemaProject/cinema12/bin/Debug/net10.0/cinema12.deps.json
+/Users/macbook/cinemaProject/cinema12/bin/Debug/net10.0/cinema12.runtimeconfig.json
+/Users/macbook/cinemaProject/cinema12/bin/Debug/net10.0/cinema12.dll
+/Users/macbook/cinemaProject/cinema12/bin/Debug/net10.0/cinema12.pdb
+/Users/macbook/cinemaProject/cinema12/obj/Debug/net10.0/cinema12.dll
+/Users/macbook/cinemaProject/cinema12/obj/Debug/net10.0/refint/cinema12.dll
+/Users/macbook/cinemaProject/cinema12/obj/Debug/net10.0/cinema12.pdb
+/Users/macbook/cinemaProject/cinema12/obj/Debug/net10.0/cinema12.genruntimeconfig.cache
+/Users/macbook/cinemaProject/cinema12/obj/Debug/net10.0/ref/cinema12.dll
